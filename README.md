@@ -17,7 +17,9 @@ Dennis Itua - Tutor
 ## How to Contribute
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
+## Usage
 
+https://www.loom.com/share/5c244c43db684a708be9fb50496a55e7
 
 ## Contact Me
 https://github.com/RyanDamron 
