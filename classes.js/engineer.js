@@ -8,6 +8,11 @@ class Engineer extends Employee {
     getRole(){
         return 'Engineer';
     }
+    getGitName() {
+        return this.gitName;
+    }
 }
 
 const engineer = new Engineer();
+
+module.exports = Engineer;
